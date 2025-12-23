@@ -43,6 +43,7 @@ Slicers enable users to interactively explore the dashboard, filtering data by P
 
 ## Dashboard
 
+![PHARMACY DASHBOARD xlsx](https://github.com/user-attachments/assets/51563b36-c44e-4aa0-ae4d-db3f070e6ad5)
 ## Project Outcome
 This project effectively demonstrates the capability to:
 - Identified top-selling drug categories and products
