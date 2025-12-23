@@ -12,3 +12,34 @@ There are six KPI cards to highlight the most important pharmacy metrics:
 - Total Quantity Sold
 - Revenue per Unit
 - Average Unit Price
+
+These KPI cards automatically update when filtered using slicers, making them dynamic and highly responsive.
+## Interactive Charts and Visualizations
+To provide clearer insights, I added multiple charts powered by PivotTables:
+- Sales by Drug Category
+Sales by drug category highlight revenue distribution across medication types, revealing top-performing categories and demand-driven product segments.
+- Monthly Sales Trend
+Monthly sales trend analysis tracks revenue performance over time, identifying growth patterns, seasonal fluctuations, and periods of increased or reduced demand.
+- Drugs by Quantity
+Drugs by quantity analysis shows the volume of units sold per medication, highlighting best-selling products and inventory demand patterns.
+- Sales by Supplier
+Sales by supplier analysis evaluates revenue contribution from each supplier, helping identify top-performing suppliers and optimize procurement strategies.
+- Payment Method Analysis
+Payment method analysis examines sales distribution across payment types, revealing customer preferences and guiding transaction processing and revenue strategies.
+
+This chart illustrates the distribution of sales across different customer types (e.g., Walk-in, HMO, Hospital Referral). Each chart is clearly labeled, color-coded, and dynamically adjusts when filters are applied for accurate, real-time insights.
+## Slicers for Interactive Filtering
+To make the dashboard truly dynamic, I added four slicers:
+-	Prescription Type
+-	Payment Method
+-	Customer Type
+-	Drug Category
+
+With slicers, users can explore the Dashboard:
+Slicers enable users to interactively explore the dashboard, filtering data by Prescription Type, Payment Method, Customer Type, or Drug Category. All KPIs and charts update instantly with slicer selections, creating a fully interactive and user-friendly experience.
+
+
+- Dashboard Interaction <a href="https://github.com/Cynthiapeggy/Pharmacy-Operations-Revenue-Analysis./blob/main/PHARMACY%20DASHBOARD.xlsx.jpg>View Dashboard</a>
+
+## Dashboard
+
