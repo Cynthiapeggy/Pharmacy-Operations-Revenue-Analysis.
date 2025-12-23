@@ -43,3 +43,19 @@ Slicers enable users to interactively explore the dashboard, filtering data by P
 
 ## Dashboard
 
+## Project Outcome
+This project effectively demonstrates the capability to:
+- Identified top-selling drug categories and products
+- Analyzed OTC vs prescription revenue contribution
+- Tracked monthly sales performance
+- Evaluated customer and payment method patterns
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers & Timelines
+- Advanced Excel Formulas
+
+## Conclusion:
+The Pharmacy Operations & Revenue Analysis effectively highlights key sales metrics, customer patterns, and revenue trends, providing actionable insights to optimize operations and support strategic decision-making.
+
