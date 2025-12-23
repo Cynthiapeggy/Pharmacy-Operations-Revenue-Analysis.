@@ -38,8 +38,8 @@ To make the dashboard truly dynamic, I added four slicers:
 With slicers, users can explore the Dashboard:
 Slicers enable users to interactively explore the dashboard, filtering data by Prescription Type, Payment Method, Customer Type, or Drug Category. All KPIs and charts update instantly with slicer selections, creating a fully interactive and user-friendly experience.
 
-
-- Dashboard Interaction <a href="https://github.com/Cynthiapeggy/Pharmacy-Operations-Revenue-Analysis./blob/main/PHARMACY%20DASHBOARD.xlsx.jpg>View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Cynthiacyna/Data-Analysis-Dashboard/blob/main/NIGERIA%20LIBRARY%20USER%20ENGAGEMENT%20DASHBOARD.xlsx.jpg">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Cynthiapeggy/Pharmacy-Operations-Revenue-Analysis./blob/main/PHARMACY%20DASHBOARD.xlsx.jpg">View Dashboard</a>
 
 ## Dashboard
 
